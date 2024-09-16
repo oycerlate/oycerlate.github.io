@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://oycerlate.github.io/sitemap.html.gz
+Sitemap: https://oycerlate.github.io/app/sitemap.html.gz
+Sitemap: https://oycerlate.github.io/assets/sitemap.html.gz
+Sitemap: https://oycerlate.github.io/css/sitemap.html.gz
+Sitemap: https://oycerlate.github.io/includes/sitemap.html.gz
+Sitemap: https://oycerlate.github.io/item/sitemap.html.gz
+Sitemap: https://oycerlate.github.io/src/sitemap.html.gz
